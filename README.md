@@ -1,6 +1,18 @@
-# Hi there, I'm Fouad Naatani 👾
+<h1 align="center">Hi, I'm Fouad 👾</h1>
 
-**Cybersecurity & Cloud Engineering Student** @ ENSAM Casablanca
+<p align="center">
+  <strong>Cybersecurity & Cloud Engineering Student @ ENSAM Casablanca</strong>
+</p>
+
+<p align="center">
+  <code>Red Team | Purple Team | Cloud Security | IoT | AI</code>
+</p>
+<p align="center">
+  ![Followers](https://img.shields.io/github/followers/fouad-naatani?label=FOLLOWERS&style=flat-square&color=0891b2)
+  ![Views](https://komarev.com/ghpvc/?username=fouad-naatani&label=PROFILE+VIEWS&color=0891b2&style=flat-square)
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0891b2?style=flat-square&logo=firefox&logoColor=white)](https://fouad-naatani.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0891b2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fouad-naatani)
+</p>
 
 ---
 
