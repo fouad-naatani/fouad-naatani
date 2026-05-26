@@ -33,7 +33,7 @@ $ cat profile.json
   "focus"       : ["Cybersecurity", "Cloud", "IoT", "AI"],
   "passion"     : ["Red Team", "Purple Team"],
   "learning"    : ["Red teaming", "Cloud security", "Distributed systems"],
-  "contact"     : "fouadnaatani02.com"
+  "contact"     : "fouadnaatani02@gmail.com"
   "partfolio"   : "https://fouad-naatani.netlify.app/"
 }
 ```
