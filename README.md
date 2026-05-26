@@ -92,9 +92,9 @@ $ cat profile.json
 
 ## 🌐 Portfolio & Contact
 
-🔗 **Portfolio**  → https://fouad-naatani.netlify.app/
-📧 **Contact**   → fouadnaatani02@gmail.com
-🐙 **GitHub**    → github.com/fouad-naatani
+🔗 **Portfolio**  → https://fouad-naatani.netlify.app/<br>
+📧 **Contact**   → fouadnaatani02@gmail.com<br>
+🐙 **GitHub**    → https://github.com/fouad-naatani <br>
 
 ---
 
