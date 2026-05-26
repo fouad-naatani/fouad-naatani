@@ -38,12 +38,6 @@ $ cat profile.json
 }
 ```
 
-## 🏆 Achievements
-
-🥇 DGSSI CTF 2026 — **1st Worldwide Qualification** · 1200 pts
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
